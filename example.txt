@@ -1,1 +1,0 @@
-python image_convertor\cmd\convert.py png --path C:\home\Ванила\Screenshots --ext tga --recursive --override --clean-up --confirm
